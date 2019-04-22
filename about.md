@@ -19,21 +19,35 @@ permalink: /about/
   * BoB 보안 제품 개발 트랙 멘토
   * 역할 : 입개발
   * 소속 : 백수
-  * 홈피 : [gilgil.gitlab.io](http://gilgil.gitlab.io)
+  * 홈피 : [gilgil.gitlab.io](https://gilgil.gitlab.io)
 <br><br>
 
 * 김성수
   * BoB 7기 디지털 포렌식 트랙
-  * 역할 : 개발
-  * 소속 : 서울과학기술대학교 산업정보시스템공학과
-  * 홈피 : ???홈피알려주삼???
+  * 역할 : 제너럴리스트(하고 싶은건 많지만 잘하는게 하나도 없는)
+  * 소속 : 삼일회계법인 Risk Assurance
+  * 홈피 : [holywaterkim.tistory.com](https://holywaterkim.tistory.com)
+<br><br>
+
+* 김수연
+  * BoB 7기 보안 제품 개발 트랙
+  * 역할 :
+  * 소속 :
+  * 홈피 :
 <br><br>
 
 * 김종훈 :
   * BoB 7기 디지털 포렌식 트랙
-  * 역할 : ???역할무엇???
-  * 소속 : 삼일회계법인
-  * 홈피 : ???홈피알려주삼???
+  * 역할 : 개발
+  * 소속 : 서울과학기술대학교 산업정보시스템공학과
+  * 홈피 : [super-cert.tistory.com](https://super-cert.tistory.com)
+<br><br>
+
+* 황태원
+  * BoB 7기 보안 제품 개발 트랙
+  * 역할 :
+  * 소속 :
+  * 홈피 :
 <br><br>
 
 * 추후 멤버 추가 예정.
