@@ -31,9 +31,9 @@ permalink: /about/
 
 * 김수연
   * BoB 7기 보안 제품 개발 트랙
-  * 역할 :
-  * 소속 :
-  * 홈피 :
+  * 역할 : 개발
+  * 소속 : 부경대학교 컴퓨터공학과
+  * 홈피 : [github.com/Ksusuyeon](https://github.com/Ksusuyeon)
 <br><br>
 
 * 김종훈 :
