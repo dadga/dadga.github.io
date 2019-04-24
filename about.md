@@ -22,6 +22,12 @@ permalink: /about/
   * 홈피 : [gilgil.gitlab.io](https://gilgil.gitlab.io)
 <br><br>
 
+* 김명수
+  * BoB 7기 디지털 포렌식 트랙
+  * 역할 : 잡부
+  * 소속 : 숭실대학교 컴퓨터학부 석사과정
+<br><br>
+
 * 김성수
   * BoB 7기 디지털 포렌식 트랙
   * 역할 : 제너럴리스트(하고 싶은건 많지만 잘하는게 하나도 없는)
@@ -41,6 +47,13 @@ permalink: /about/
   * 역할 : 개발
   * 소속 : 서울과학기술대학교 산업정보시스템공학과
   * 홈피 : [super-cert.tistory.com](https://super-cert.tistory.com)
+<br><br>
+
+* 조성훈
+  * BoB 7기 컨설팅 트랙
+  * 역할 :
+  * 소속 :
+  * 홈피 :
 <br><br>
 
 * 황태원
